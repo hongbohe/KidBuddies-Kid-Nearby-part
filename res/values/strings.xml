@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="textColor">#815F3D</string>
+    <string name="app_name">KID BUDDIES</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_ashamed_detail">AshamedDetailActivity</string>
+    <string name="title_activity_send_comment">SendCommentActivity</string>
+    
+    <!-- login -->
+    <string name="Ledit_name">Username</string>
+    <string name="Ledit_password">Password</string>
+    <string name="login">Log in</string>
+    <string name="register">Sign up</string>
+    <string name="register_hint">Don\'t have an account?</string>
+    
+    <!-- register -->
+    <string name="Redit_email">Email</string>
+    <string name="signup">Create Account</string>
+    <string name="login_hint">Already have an account?</string>
+    
+    <!-- profile -->
+    <string name="userinfo">Say something about yourself</string>
+    <string name="UserName">Username</string>
+    <string name="SendMessage">Send Message</string>
+    
+    <!-- leftview, login account -->
+    <string name="myUserName">Login</string>
+    
+    <!-- create activity -->
+	<string name="create_activity_head">New Activity</string>
+	
+	<string name="create_activity_title_hint">Name it!</string>
+	<string name="create_activity_time_hint">hh:mm</string>
+	<string name="create_activity_startdate_hint">Start at yyyy-mm-dd</string>
+	<string name="create_activity_enddate_hint">End at yyyy-mm-dd</string>
+	<string name="create_activity_spot_hint">Locate the spot</string>
+	<string name="create_activity_maxnum_hint">Max participants (adult counted)</string>
+	<string name="create_activity_detail_hint">Tell us more about it!</string>
+
+	<!-- activity list -->
+	<string name="view_activity_title">Title</string>
+	<string name="text_activity_startdate">START AT</string>
+	<string name="text_activity_enddate">END AT</string>
+	<string name="text_activity_spot">SPOT</string>
+	
+	
+	
+	<string name="btn_joined_num">Joined</string>
+	<string name="btn_comment_num">Comment</string>
+	<string name="symbol1">/</string>
+	
+	<!-- view activity detail -->
+	<string name="detail_activity_head">Activity Detail</string>
+	
+	<string name="detail_activity_title">Title</string>
+	<string name="detail_activity_desc">Description</string>
+	
+	<string name="btn_join_activity">JOIN</string>
+	
+	<string name="no_comments">NO COMMENTS</string>
+	
+	<!-- edit user information -->
+	<string name="edit_profile_head">Edit Profile</string>
+	<string name="user_image_hint">click to change</string>
+	<string name="gender">GENDER</string>
+	<string name="gender_default">male</string>
+	<string name="age">AGE</string>
+	<string name="name">NAME</string>
+	<string name="hobbies">HOBBIES</string>
+	<string name="details">DETAILS</string>
+	<string name="address">ADDRESS</string>
+	<string name="email">EMAIL</string>
+	<string name="status">STATUS</string>
+	<string name="btn_save">SAVE</string>
+	
+	<!-- view user information -->
+	<string name="registration_time">REGISTRATION TIME</string>
+	
+	<string name="tab_text_profile">Profile</string>
+	<string name="tab_text_myactivity">My Activities</string>
+
+	<!-- activity home page -->
+	<string name="activity_list_head_upcoming">UPCOMING</string>
+	<string name="activity_list_head_past">PAST</string>
+	<string name="loading">Loading&#8230;</string>
+	<string name="drag_loading">Drag to load</string>
+	<string name="latest_update">Latest Update</string>
+	<string name="no_activity">No activity yet! Go to post the first activity!</string>
+
+	<!-- left view -->
+	<string name="page_activity">Activities</string>
+	<string name="page_event">Things To-do</string>
+	<string name="page_playspot">Play Spots</string>
+	<string name="page_message">Messages</string>
+	<string name="page_nearby">Nearby</string>
+	<string name="page_contact">Friends</string>
+	
+	<!-- message home page -->
+	<string name="message_list_head">Messages</string>
+	
+	<!-- nearby home page -->
+	<string name="nearby_head">Nearby</string>
+	<string name="no_people_found">No one found nearby!</string>
+	<string name="nearby_distance">0.1km</string>
+	
+	<string name="no_gmap_service">No Google Map Service!</string>
+	<string name="map_info">Map Info</string>
+	<string name="current_location">Current Location</string>
+	
+	<string name="events_list_title">Local Events</string>
+    <string name="error_io">Application encountered network errors.  Please try again later.</string>
+    <string name="error_url">Application encountered an error.  Please try again later.</string>
+    <string name="error_location">Unable to retrieve location.  Please ensure your GPS is enabled.</string>
+    <string name="error_parse">Application encountered errors while processing web data.  Please try again later.</string>
+    <string name="error_unknown">Sorry Application encountered generic error.  Please restart application.</string>
+	
+</resources>
